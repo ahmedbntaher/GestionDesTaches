@@ -59,19 +59,19 @@ npm start
 
 #📂 Structure du Projet
 .
-├── backend/          # API Symfony
+├── taskmanager        # API Symfony
 │   ├── config/
 │   ├── migrations/
 │   ├── public/
 │   ├── src/
 │   │   └── Controller/
 │   └── ...
-├── frontend/         # Application React
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   └── context/
-│   └── ...
+├───────task-manager-front/         # Application React
+│       ├── public/
+│       ├── src/
+│       │   ├── components/
+│       │   └── context/
+│       └── ...
 └── README.md
 
 #⚙️ Configuration Backend
