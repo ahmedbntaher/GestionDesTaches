@@ -29,9 +29,6 @@ Application full-stack de gestion de tâches avec Symfony (backend API) et React
 # Cloner le dépôt
 git clone https://github.com/ahmedbntaher/task-manager
 
-# Accéder au dossier backend
-cd task-manager/backend
-
 # Installer les dépendances
 composer install
 
