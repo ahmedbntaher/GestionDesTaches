@@ -57,7 +57,7 @@ npm install
 # Démarrer l'application
 npm start
 
-#📂 Structure du Projet
+📂 Structure du Projet
 .
 ├── taskmanager        # API Symfony
 │   ├── config/
@@ -74,11 +74,11 @@ npm start
 │       └── ...
 └── README.md
 
-#⚙️ Configuration Backend
+⚙️ Configuration Backend
 ##Configurer l'URL de l'API dans src/context/TaskContext.jsx : 
 const API_BASE = 'http://localhost:8000';
 
-#🖥️ Utilisation
+🖥️ Utilisation
 ##Endpoints API :
 # Lister les tâches
 GET http://localhost:8000/tasks/
