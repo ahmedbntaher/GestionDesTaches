@@ -27,7 +27,7 @@ Application full-stack de gestion de tâches avec Symfony (backend API) et React
 ### Backend Symfony
 ```bash
 # Cloner le dépôt
-git clone [URL_DU_DEPOT]
+git clone https://github.com/ahmedbntaher/task-manager
 
 # Accéder au dossier backend
 cd task-manager/backend
@@ -96,5 +96,15 @@ Body: { "title": "Nouveau titre", "completed": true }
 
 # Supprimer une tâche
 DELETE http://localhost:8000/tasks/1
+
+Interface Utilisateur :
+
+Accéder à l'application : http://localhost:3000
+
+Ajouter/modifier des tâches via le formulaire
+
+Cocher les cases pour marquer comme terminé
+
+Supprimer avec l'icône 🗑️
 
 
