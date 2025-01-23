@@ -49,7 +49,7 @@ symfony serve:start
 
 #Frontend React
 # Accéder au dossier frontend
-cd ../frontend
+cd task-manager-front
 
 # Installer les dépendances
 npm install
